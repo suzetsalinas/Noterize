@@ -22,13 +22,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation
 
-To get started with the Express Note Taker, follow these steps:
+To get started with Noterize, follow these steps:
 
 1. Clone the repository:
-   ```git clone https://github.com/your-username/express-note-taker.git```
+   ```git clone https://github.com/suzetsalinas/Noterize.git```
 
 2. Navigate to the project directory:
-    ```cd express-note-taker```
+    ```cd Noterize```
 
 3. Install the required dependencies:
     ```npm install```
@@ -37,7 +37,5 @@ To get started with the Express Note Taker, follow these steps:
 To run the application locally:
 
 Start the server:
-- Copy code
 - run: node app.js
-- run: install express
 - Open your browser and navigate to http://localhost:3000.
